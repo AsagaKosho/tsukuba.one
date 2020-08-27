@@ -53,7 +53,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: `https://tsuuba.one/main.png`
+          content: `https://tsukuba.one/main.png`
         },
         {
           name: `twitter:card`,
