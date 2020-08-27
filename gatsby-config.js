@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `tsukuba.one`,
-    description: ``,
+    description: `筑波大生のためのサブドメイン提供サービスです。`,
     author: `@AsagaKosho`,
   },
   plugins: [
