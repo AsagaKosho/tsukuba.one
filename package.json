@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "tsukuba-one",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Kosho Asaga <asaga@newcreator.org>",
   "dependencies": {
     "gatsby": "^2.24.50",
     "gatsby-image": "^2.4.16",
@@ -22,7 +22,7 @@
     "prettier": "2.1.0"
   },
   "keywords": [
-    "gatsby"
+    "tsukuba"
   ],
   "license": "0BSD",
   "scripts": {
